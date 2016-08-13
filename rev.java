@@ -6,7 +6,7 @@ class rev
 	{
      String s;
      Scanner scr=new Scanner(System.in);
-     s=scr.next();
+     s=scr.nextLine();
      if(s.length()>1)
      {
      StringBuffer sb=new StringBuffer(s);
