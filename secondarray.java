@@ -25,6 +25,6 @@ class secondarray
 				}
 			}
 		}
-	System.out.println(a[1]);
+	System.out.println(a[n-2]);
 	}
 }
